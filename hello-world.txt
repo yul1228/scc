@@ -1,0 +1,1 @@
+If this file appears on GitHub that means that I was able to successfully synchronize my local repository with the remote.
